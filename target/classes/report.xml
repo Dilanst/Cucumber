@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="48.685">
+    <testcase classname="Go to the account settings on amazon aws" name="go to account settings on amazon aws" time="47.578">
+        <system-out>
+            <![CDATA[Given into to the webside http://aws.amazon.com/en/.........................passed
+When into to the menu.......................................................passed
+And into to the My account..................................................passed
+Then show me aws login......................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
