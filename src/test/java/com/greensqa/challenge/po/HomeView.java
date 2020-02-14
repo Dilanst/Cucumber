@@ -18,14 +18,14 @@ import io.cucumber.java.en.When;
 /**
  * <pre>
  * Fecha      Autor     
- * 27-01-2020 Juan Sebastian Zapata Maya	
+ * fecha de creacion Nombre Autor	
  * </pre>
  * 
  * <p>Page Object que permite interacturar con los componentes de la 
  * pantalla de inicio de AWS
  * </p>
  * 
- * @author Juan Sebastian Zapata Maya
+ * @author Autor
  * @version 1.0
  * @category View
  * **/
